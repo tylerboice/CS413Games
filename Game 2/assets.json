@@ -1,0 +1,44 @@
+{"frames": {
+
+"Box.png":
+{
+	"frame": {"x":0,"y":32,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+"Sprite-1Tile.png":
+{
+	"frame": {"x":0,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"Sprite-2Tile.png":
+{
+	"frame": {"x":32,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"Sprite-3Tile.png":
+{
+	"frame": {"x":64,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "assests.png",
+	"format": "RGBA8888",
+	"size": {"w":96,"h":112},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3818ef46a63a0d7f26f5a190f61eb5a9:1a23a4a3bac60640dc19ee1f26fb5ac8:45a033c268dba195ad11aaaa11ae6003$"
+}
+}
